@@ -1,10 +1,10 @@
 Source from: https://github.com/AppLozic/Applozic-Android-SDK
 
 # Customize theme and ui in:
-mobicomkitui\src\main\res\values\string.xml
-mobicomkitui\src\main\res\values\mobicom_array.xml
-mobicomkitui\src\main\res\values\mobicom_strings.xml
-mobicomkitui\src\main\res\values\mobicom_colors.xml
+mobicomkitui\src\main\res\values\string.xml <br />
+mobicomkitui\src\main\res\values\mobicom_array.xml <br />
+mobicomkitui\src\main\res\values\mobicom_strings.xml <br />
+mobicomkitui\src\main\res\values\mobicom_colors.xml <br />
 
 # ApplozicTheme (mobicom_colors.xml):
     <color name="applozic_theme_color">#FFB3E5FC</color>
