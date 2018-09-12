@@ -11,8 +11,8 @@ mobicomkitui\src\main\res\values\mobicom_colors.xml <br />
 
 # ApplozicTheme:
 (mobicom_colors.xml) <br />
-    <color name="applozic_theme_color">#FFB3E5FC</color> <br />
-    <color name="applozic_theme_color_primary">#49175C</color> <br />
-    <color name="applozic_theme_color_primary_dark">#49175C</color> <br />
-    <color name="applozic_theme_color_accent">#FF4081</color> <br />
-    .......
+    '<color name="applozic_theme_color">#FFB3E5FC</color>' <br />
+    '<color name="applozic_theme_color_primary">#49175C</color>' <br />
+    '<color name="applozic_theme_color_primary_dark">#49175C</color>' <br />
+    '<color name="applozic_theme_color_accent">#FF4081</color>' <br />
+    '.......'
