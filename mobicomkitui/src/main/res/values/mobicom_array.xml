@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="secret_message_timer_array">
+        <item>Self Destruct</item>
+        <item>Off</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+    </string-array>
+
+    <string-array name="send_type_options">
+        <item>SMS</item>
+        <item>MT</item>
+    </string-array>
+
+    <!-- Scheduled Message strings -->
+
+    <string-array name="schedule_menu">
+        <item>Sao chép</item>
+        <item>Đóng</item>
+    </string-array>
+
+
+    <string-array name="menu">
+        <item>Sao chép</item>
+        <item>Chuyển tiếp</item>
+        <item>Gửi lại</item>
+        <item>Xóa</item>
+        <item>Thông tin</item>
+        <item>Chia sẻ</item>
+        <item>Trả lời</item>
+    </string-array>
+
+    <string-array name="conversation_options_menu">
+        <item>Xóa cuộc trò chuyện</item>
+        <item>Xóa nhóm</item>
+        <item>Đóng nhóm</item>
+    </string-array>
+
+    <!--Group member list menu -->
+    <string-array name="channel_users_menu_option">
+        <item>Tin nhắn</item>
+        <item>Xóa</item>
+        <item>Make group admin</item>
+    </string-array>
+
+    <!--Multimedia options -->
+    <string-array name="multimediaOptions_sms">
+        <item>Current location</item>
+    </string-array>
+
+    <string-array name="multimediaOptions_mt">
+        <item>Địa điểm gần đây</item>
+        <item>Gửi hình</item>
+        <item>Thêm tệp</item>
+        <item>Tin nhắn thoại</item>
+        <item>Tin nhắn video</item>
+        <item>Chia sẻ liên kết</item>
+    </string-array>
+
+    <string-array name="multimediaOptions_with_price">
+        <item>Địa điểm gần đây</item>
+        <item>Gửi hình</item>
+        <item>Thêm tệp</item>
+        <item>Tin nhắn thoại</item>
+        <item>Tin nhắn video</item>
+        <item>Chia sẻ liên kết</item>
+        <item>Attach price</item>
+
+    </string-array>
+
+    <string-array name="multimediaOptions_with_price_text">
+        <item>Địa điểm</item>
+        <item>Máy ảnh</item>
+        <item>Tệp</item>
+        <item>Âm thanh</item>
+        <item>Video</item>
+        <item>Danh dạ</item>
+        <item>Price</item>
+    </string-array>
+
+    <string-array name="multimediaOptions_without_price_text">
+        <item>Địa điểm</item>
+        <item>Máy ảnh</item>
+        <item>Tệp</item>
+        <item>Âm thanh</item>
+        <item>Video</item>
+        <item>Danh dạ</item>
+    </string-array>
+
+    <string-array name="multimediaOptions_without_price_key">
+        <item>:location</item>
+        <item>:camera</item>
+        <item>:file</item>
+        <item>:audio</item>
+        <item>:video</item>
+        <item>:contact</item>
+    </string-array>
+
+    <string-array name="multimediaOptionIcons_without_price">
+        <item>&#xf041;</item>
+        <item>&#xf030;</item>
+        <item>&#xf0c6;</item>
+        <item>&#xf130;</item>
+        <item>&#xf03d;</item>
+        <item>&#xf007;</item>
+    </string-array>
+
+    <string-array name="notification_texts">
+        <item>Địa điểm</item>
+        <item>Audio</item>
+        <item>Video</item>
+        <item>Tập tin đính kèm</item>
+    </string-array>
+
+</resources>
